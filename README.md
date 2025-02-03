@@ -11,3 +11,8 @@ such as :
 
 The projects I did Include:
 
+- https://github.com/Ivykogo/Movie-rating-prediction-with-python - This involves predicting ratings of movies using python
+- 
+
+
+
